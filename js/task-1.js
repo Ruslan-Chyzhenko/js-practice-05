@@ -1,7 +1,5 @@
 // Main function 
-const getUserNames = (users) => {
- return users.map(user => user.name);
-}
+
 
 // Text calls
 console.log(
